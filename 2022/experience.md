@@ -26,3 +26,7 @@
 - Intersection feels weird compared to other languages
 - Technically, only have to populate charsets after the first with items contained in the previous set(s)
 - Need to use set instead of dictionary in the future...skimmed doc and thought that set contents were frozen after initialization (just can't modify existing value)
+
+## Day 04
+- Tuples
+- Wasn't able to cast inside of tuple declaration
