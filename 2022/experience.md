@@ -38,3 +38,10 @@
 - Some nice use of regex
 - Used a _list comprehension_ (wow, such python!)
 - Multi transfer between stacks would ideally be a function, that feels bug-prone otherwise
+
+## Day 06
+- Fairly easy to implement queue in python, just like stack
+- Should look how to iterate by character within input file, rather than nested iteration within lines
+- Set as unique count check seems like a good option
+- Technically should have made into function and returned...only one line in the input, but only broke out of the inner loop
+- Had to guess whether packet start indicator and message start indicator could share characters...feel like in the real world they wouldn't?  Requiring identification of packet start (and then message start afterwards).
