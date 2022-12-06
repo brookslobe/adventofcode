@@ -30,3 +30,11 @@
 ## Day 04
 - Tuples
 - Wasn't able to cast inside of tuple declaration
+
+## Day 05
+- Neat that stacks have native implementation with lists
+- Reading in unorthodox file that has varied "checkpoints" within the file that you need to deal with differently is interesting...real world would hopefully have separate files or a standardized format like json
+- Unsure if reading file lines into list of strings is a good approach...apprehension over storing all that data
+- Some nice use of regex
+- Used a _list comprehension_ (wow, such python!)
+- Multi transfer between stacks would ideally be a function, that feels bug-prone otherwise
